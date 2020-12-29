@@ -38,7 +38,7 @@ for (i = 0; i < 5; i++) {
 
 }
 
-//il puntatore da ora se llo si vuole utilizzare punterà all'ultimo elemento del vettore
+//il puntatore da ora se lo si vuole utilizzare punterà all'ultimo elemento del vettore
 
 printf("\n\n\n");
 return 0;
